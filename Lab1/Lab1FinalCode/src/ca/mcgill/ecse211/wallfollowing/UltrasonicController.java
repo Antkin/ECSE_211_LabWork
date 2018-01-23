@@ -1,4 +1,4 @@
-package ecse211_lab1_code;
+package ca.mcgill.ecse211.wallfollowing;
 
 public interface UltrasonicController {
 

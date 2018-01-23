@@ -1,4 +1,4 @@
-package ecse211_lab1_code;
+package ca.mcgill.ecse211.wallfollowing;
 import lejos.hardware.Sound;
 
 public class SoundPlayer extends Thread
